@@ -8,8 +8,7 @@
 
 <h1>Oghenetega Idogun</h1>
 <p>
-  I'm a software engineer specializing in web development. I love working with JavaScript, React, and Node.js.
-  I'm passionate about open source, and I'm always looking for new and exciting projects to contribute to.
+Passionate game developer and software engineer skilled in Unity, Unreal, and Blender. Led a few teams and mentored learners through computer science concepts and tools. I also write code as a hobby.
 </p>
 
 <h2>📫 Media</h2>
