@@ -8,7 +8,7 @@
 
 <h1>Oghenetega Idogun</h1>
 <p>
-Passionate game developer and software engineer skilled in Unity, Unreal, Blender and Python. Led a few teams and mentored learners through computer science concepts and tools. I also write code as a hobby.
+Passionate software developer skilled in Python, Java, C and Unity. Led a few teams and mentored learners through computer science concepts and tools. I also make games as a hobby.
 </p>
 
 <h2>📫 Media</h2>
