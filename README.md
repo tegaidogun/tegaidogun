@@ -19,15 +19,6 @@ Passionate software developer skilled in Python, Java, C and Unity. Led a few te
   <a href="https://www.youtube.com/channel/UC8dsasfEOQjcfP7VcxqeEWg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/15254738/oghenetega-idogun">
-    <img src="https://img.shields.io/badge/StackOverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
-  </a>
-  <a href="https://stackoverflow.com/users/15254738/oghenetega-idogun">
-    <img src="https://img.shields.io/badge/Discord-default?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://tegaidogun.itch.io/">
-    <img src="https://img.shields.io/badge/Itch-default?style=for-the-badge&logo=itchi-io&logoColor=white" alt="Itch.io Badge"/>
-  </a>
 </div>
 </p>
 
